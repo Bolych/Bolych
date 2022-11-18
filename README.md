@@ -1,1 +1,1 @@
-Hi, I am learning front end development. These projects are just testing
+Hi, I am learning front end development. These projects are for educative purposes
